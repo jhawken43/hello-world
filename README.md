@@ -1,2 +1,6 @@
 # hello-world
-My training repository
+
+Hi Humans!
+
+yadda yadda yadda
+yadda yadda yadda
